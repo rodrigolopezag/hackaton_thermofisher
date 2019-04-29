@@ -24,4 +24,8 @@ public class Study {
         this.days = days;
         this.price = price;
     }
+
+    public String get_id() {
+        return _id;
+    }
 }
