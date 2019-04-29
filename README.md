@@ -1,7 +1,7 @@
-## CLINET (Clinical Network) - Thermo/UCSD - Hackaton
-# Red de Labotarios de Análisis Clínicos a Nivel Nacional
+# CLINET (Clinical Network) - Thermo/UCSD - Hackaton
+## Red de Labotarios de Análisis Clínicos a Nivel Nacional
 
-# Repositorio oficial del Hackatón 2019 realizado por Thermo Fisher Scientific y UCSD
+## Repositorio oficial del Hackatón 2019 realizado por Thermo Fisher Scientific y UCSD
 
 ## Problema?
 
