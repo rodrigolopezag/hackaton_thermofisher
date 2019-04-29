@@ -13,6 +13,6 @@ Introducimos CLINET, una plataforma en linea y logística aplicada que permite a
 
 ## Contacto
 
-André Céedrick Rosa Félix - cedrick.rosa@cetys.edu.mx
-Carlos Alberto Delgado Delgado - rbty2804@gmail.com
-Rodrigo López Aguilera - rodrigolopezag@gmail.com
+### André Céedrick Rosa Félix - cedrick.rosa@cetys.edu.mx
+### Carlos Alberto Delgado Delgado - rbty2804@gmail.com
+### Rodrigo López Aguilera - rodrigolopezag@gmail.com
